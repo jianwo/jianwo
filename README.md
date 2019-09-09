@@ -1,5 +1,7 @@
 # 席地开源版
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/jianwo.svg)](https://greenkeeper.io/)
+
 [席地](https://jianliao.com)所有业务代码的开源版本，可作任意修改
 
 [席地 - 产品](http://tburl.in/c888ede0/)项目包含了席地由开始到现在的所有开发历程，设想，和设计资源，感兴趣的同学可加入项目参观或留言
