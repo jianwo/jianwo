@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "talk-account/package.json",
+        "talk-api2x/package.json",
+        "talk-api2x/public/vendor/gta/package.json",
+        "talk-snapper/package.json",
+        "talk-web/package.json"
+      ]
+    }
+  }
+}
